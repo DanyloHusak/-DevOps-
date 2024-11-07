@@ -10,3 +10,5 @@ extension=$2
 
 find "$path" -type f -name "*.$extension"
 
+
+a
